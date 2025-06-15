@@ -55,7 +55,7 @@ const Hero = () => {
               <h1>that Deliver Results</h1>
             </div>
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hi, I'm Praisel, a developer based in the UK with a passion for
+              Hi, I'm Praisel, a developer based in the UK with a passion <br></br>for
               creating with code.
             </p>
             <Button
